@@ -1,5 +1,6 @@
 ### HI THERE 👋👋👋
-My name is Hai Cao, 20 yos, Vietnamese. I am now **3rd-year student** of Post and Telecommunication Institute of Technology, at the same time **System Administrator** of Bizfly Cloud - Vccorp.
+My name is Hai Cao, 20 yos, Vietnamese  ![image](https://user-images.githubusercontent.com/88284121/215816408-6d62343b-f91f-449b-b543-52a01930f750.png)
+. I am now **3rd-year student** of Post and Telecommunication Institute of Technology, at the same time **System Administrator** of Bizfly Cloud - Vccorp.
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/CDHai/)
 
